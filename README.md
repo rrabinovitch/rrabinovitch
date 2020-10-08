@@ -12,6 +12,6 @@ I'm a systems-oriented thinker with a background in nonprofit operatons and psyc
 
 
 
-[![Ruthie's github stats](https://github-readme-stats.vercel.app/api?username=rrabinovitch)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=dark)
+[![Ruthie's github stats](https://github-readme-stats.vercel.app/api?username=rrabinovitch)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- is there a way to have a smaller image of my resume embedded that can be expanded when clicked on -->
