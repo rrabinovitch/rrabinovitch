@@ -1,5 +1,7 @@
 <img src="https://user-images.githubusercontent.com/62635544/95421996-b87dd580-08fb-11eb-9f23-871bfd6cbc42.png" alt="Ruthie GH profile header"/>
 
+_this readme is in progress!_
+
 ### About me
 I'm a systems-oriented thinker with a background in nonprofit operatons and psychology. With experience in customer-facing roles focused on user experience, internal operations, and project management, I'm excited to bring ideas and perspectives around employing human-centered design in managing team collaboration and workflow to a company that builds software that helps other teams work more smoothly and efficiently.  
 - 😄 Pronouns: she/her
