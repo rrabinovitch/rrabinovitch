@@ -8,7 +8,7 @@ I'm a systems-oriented thinker with a background in nonprofit operatons and psyc
 - 🔭 I’m currently working on: [Crate](https://github.com/rrabinovitch/Crate), a legacy code project in collaboration with backend peers and learning to work with frontend students. This also happens to be my second to last project as a student at [Turing School of Software & Design](turing.io)!
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking to connect with ...
-- Check out my [resume](https://user-images.githubusercontent.com/62635544/95420583-ee6d8a80-08f8-11eb-8bd4-3b17b896d9c3.jpg) and my [portfolio](https://alumni.turing.io/alumni/ruthie-rabinovitch) for more background and project examples
+- Check out my [resume](https://user-images.githubusercontent.com/62635544/95427177-5fff0600-0904-11eb-898b-94a1466cbd4a.jpg) and my [portfolio](https://alumni.turing.io/alumni/ruthie-rabinovitch) for more background and project examples
 
 
 [![Ruthie's github stats](https://github-readme-stats.vercel.app/api?username=rrabinovitch&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
