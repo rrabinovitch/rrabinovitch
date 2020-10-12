@@ -4,8 +4,6 @@
 
 Systems-oriented thinker with a background in nonprofit operatons and psychology. With experience in customer-facing roles focused on user experience, internal operations, and project management, I'm excited to bring ideas and perspectives around employing human-centered design in managing team collaboration and workflow to a company that builds software that helps other teams work more smoothly and efficiently.  
 
-
-
 [![Ruthie's github stats](https://github-readme-stats.vercel.app/api?username=rrabinovitch&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- is there a way to have a smaller image of my resume embedded that can be expanded when clicked on -->
