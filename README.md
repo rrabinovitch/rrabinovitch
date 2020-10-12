@@ -1,14 +1,9 @@
 # Ruthie Rabinovitch (she/her)
 
-### [LinkedIn](https://www.linkedin.com/in/ruthie-r/) | [Email](rrabinovitch1@gmail.com)
+### [LinkedIn](https://www.linkedin.com/in/ruthie-r/) | [Email](rrabinovitch1@gmail.com) | [Resume](https://user-images.githubusercontent.com/62635544/95427177-5fff0600-0904-11eb-898b-94a1466cbd4a.jpg) | [Portfolio](https://alumni.turing.io/alumni/ruthie-rabinovitch)
 
 Systems-oriented thinker with a background in nonprofit operatons and psychology. With experience in customer-facing roles focused on user experience, internal operations, and project management, I'm excited to bring ideas and perspectives around employing human-centered design in managing team collaboration and workflow to a company that builds software that helps other teams work more smoothly and efficiently.  
-- ⛰️ Location: Denver, CO (open to remote work)
-- 📫 How to reach me: 
-- 🔭 I’m currently working on: [Crate](https://github.com/rrabinovitch/Crate), a legacy code project in collaboration with backend peers and learning to work with frontend students. This also happens to be my second to last project as a student at [Turing School of Software & Design](turing.io)!
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking to connect with ...
-- Check out my [resume](https://user-images.githubusercontent.com/62635544/95427177-5fff0600-0904-11eb-898b-94a1466cbd4a.jpg) and my [portfolio](https://alumni.turing.io/alumni/ruthie-rabinovitch) for more background and project examples
+
 
 
 [![Ruthie's github stats](https://github-readme-stats.vercel.app/api?username=rrabinovitch&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
